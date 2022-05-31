@@ -1,0 +1,27 @@
+.table1{
+    border: 2px solid black;
+    /* border-collapse: collapse; */
+    display: flex;
+    flex-direction: column;
+    margin: 0 1rem;
+}
+
+.t_row_head{
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+  padding: 0 5rem;
+
+}
+
+.t_row_data{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 5rem;
+
+}
+
+.table_heading{
+  margin: 1rem;
+  padding : 1rem 0;
+}

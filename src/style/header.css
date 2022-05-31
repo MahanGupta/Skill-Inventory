@@ -1,0 +1,22 @@
+.parent{
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-between;
+    border: 1px solid black;
+    margin: 1%;
+    padding:1%;
+    color: rgb(33, 33, 33);
+    background-color: rgb(108, 147, 247);
+}
+
+.c1{
+    font-size: medium;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.c2{
+    background-color: rgb(232, 60, 60);
+    border-radius: 5rem;
+    padding: 5px 15px;
+    border: none;
+    color: aliceblue;
+}
